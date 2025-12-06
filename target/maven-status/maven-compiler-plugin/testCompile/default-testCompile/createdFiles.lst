@@ -1,0 +1,2 @@
+com\example\usercrud\service\UserServiceTest.class
+com\example\usercrud\repository\InMemoryUserRepositoryTest.class

@@ -1,0 +1,5 @@
+com\example\usercrud\repository\InMemoryUserRepository.class
+com\example\usercrud\service\UserService.class
+com\example\usercrud\model\User.class
+com\example\usercrud\App.class
+com\example\usercrud\repository\UserRepository.class
